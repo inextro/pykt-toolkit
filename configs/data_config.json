@@ -414,12 +414,12 @@
     "ml-1m": {
         "dpath": "../data/ml-1m",
         "num_q": 0,
-        "num_c": 3706,
+        "num_c": 3621,
         "input_type": [
             "concepts"
         ],
         "max_concepts": 1,
-        "min_seq_len": 3,
+        "min_seq_len": 10,
         "maxlen": 100,
         "emb_path": "",
         "train_valid_original_file": "train_valid.csv",
